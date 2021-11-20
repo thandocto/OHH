@@ -1,0 +1,279 @@
+(a) Inorder (Left, Root, Right) 
+(b) Preorder (Root, Left, Right) 
+(c) Postorder (Left, Right, Root)
+
+
+Choose correct statements:(i) K2,2 is isomorphic to K4(ii) K2,2 is isomorphic to C4(iii) K2,2 is isomorphic to Q2
+Select one:
+a. (i) and (ii)
+b. None of the other choices is correct
+c. (i), (ii) and (iii) are NOT correct
+d. (i) and (iii)
+e. (ii) and (iii)
+(ii) and (iii)
+
+Consider the directed graph G with the adjacency matrix (in the order of vertices A, B, C, D)
+Determine if the statement is True.
+The in-degree of D is 5 Choose...NoTrue
+The out-degree of B is 3 Choose...NoTrue
+The graph has 3 loops Choose...NoTrue
+True
+No 
+True
+
+Consider the directed graph G with the adjacency matrix (in the order of vertices A, B, C, D)Determine if the statement is True.
+There are loops at D Choose...TrueNo
+The in-degree of C is 3 Choose...TrueNo
+The out-degree of D is 3 Choose...TrueNo
+There are loops at D → True, 
+The in-degree of C is 3 → True, 
+The out-degree of D is 3 → No
+
+Consider the undirected graph G with the incidence matrix (in the order of vertices A, B, C, D and of edges e1, e2, e3, e4, e5).
+Determine if the statement is True.
+Deg(B) = 1 Choose...TrueFalse
+There are no multiple edges Choose...TrueFalse
+There are loops at A Choose...TrueFalse
+Deg(B) = 1 → True, 
+There are no multiple edges → False, 
+There are loops at A → True
+
+Consider the undirected graph G with the incidence matrix (in the order of vertices A, B, C, D and of edges e1, e2, e3, e4, e5).Determine if the statement is True.
+B is adjacent to CAnswer 1Choose...NoYesDeg(D) = 3Answer 2Choose...NoYesThere are no loops at DAnswer 3Choose...NoYes
+B is adjacent to C → No, Deg(D) = 3 → No, There are no loops at D → Yes
+
+Determine a Huffman coding for the characters
+A: 0.45, B: 0.25, C: 0.2, D: 0.1
+Select one:
+a. A := 0 B:= 11 C:= 01 D:= 00
+b. A := 0 B:= 1 C:= 10 D:= 11
+c. A := 1 B:= 01 C:= 000 D:= 001
+d. A := 0 B:= 11 C:= 110 D:= 111
+A := 1 B:= 01 C:= 000 D:= 001
+
+Determine if it is prefix code.
+a → 0, b → 10, c → 110, d → 1110, e → 11110Answer 1Choose...FalseTruea → 00, b → 01, c → 10, d → 11, e → 110Answer 2Choose...FalseTruea → 0, b → 1, c → 00, d → 01, e → 10Answer 3Choose...FalseTruea → 000, b → 001, c → 010, d → 011, e → 100Answer 4Choose...FalseTrue
+The correct answer is: a → 0, b → 10, c → 110, d → 1110, e → 11110 → True, 
+a → 00, b → 01, c → 10, d → 11, e → 110 → False, 
+a → 0, b → 1, c → 00, d → 01, e → 10 → False, 
+a → 000, b → 001, c → 010, d → 011, e → 100 → True
+
+Does there exist a peudograph with 7 vertices whose degrees are:
+1, 2, 3, 4, 5, 6, 7
+A. true
+B. false
+A
+
+Draw a binary search tree for the sentence
+
+co cong mai sat co ngay nen kim
+
+Then find the number of comparisons needed to locate the word "kim"
+4
+
+Draw a binary search tree for the sentence"cong cha nhu nui thai son".Then find the number of comparisons needed to locate the word "son".
+5
+
+Draw a binary search tree for the sentence"mot long tho me kinh cha".Then find the number of comparisons needed to locate the word "cha".
+4
+
+Draw a binary search tree for the sentences
+
+tram nam trong coi nguoi ta
+chu tai chu menh kheo la ghet nhau.
+
+Then find the number of comparisons needed to locate the word "tai"
+5
+
+Find the height of a balanced full 4-ary tree with 125 leaves.
+4
+
+Find the least number of leaves of a balanced full 4-ary tree of height 3.
+19
+
+Find the least number of leaves of a balanced full binary tree of height 10.
+513
+
+Find the least number of vertices of a full 3-ary tree of height 3.
+10
+
+Find the maximum of the number of vertices in a binary tree of height 5.
+63
+
+Find the Polish notation for the expression
+((x + y) ↑ 2) * (y - 3 ∕ x) + 4
+Select one:
+a. x + y ↑ 2 * y - 3 ∕ x + 4
+b. + * ↑ + x y 2 - y / 3 x 4
+c. x y + 2 ↑ y 3 x ∕ − * 4 +
+d. * ↑ + x y 2 - y / 3 x + 4
+B. + * ↑ + x y 2 - y / 3 x 4
+
+Find the value of the postfix expression
+
+2 6 + 3 * 4 2 + 7 * - 2 /
+-9
+
+Find the value of the postfix expression
+
+2 6 + 7 * 4 2 + 7 2 * - /
+-7
+
+Find the value of the postfix expression
+
+6 2 + 3 * 4 2 / 7 * - 2 3 8 - * +
+0
+
+Find the value of the postfix expression
+1 2 * 3 ↑4 5 - 6 7 - * -
+7
+
+Find the value of the postfix expression
+2 2 4 + 3 2 ↑ + 5 3 + * -
+-118
+
+Find the value of the prefix expression
+
++ - * 4 3 5 2.
+9
+
+Find the value of the prefix expression
+
++ / * 4 3 - 5 7 + 3 2.
+-1
+
+Find the value of the prefix expression
+* + 3+ 3 * 3 ↑3 - 3 3 3
+27
+
+Find the value of the prefix expression
+* + 4 + 4 ↑ 1 + 4 4 2
+18
+
+Find the value of the prefix expression : * + 3 3 * + 3 ↑3 3 - 3 3
+0
+
+Given a message 10 letters A, 13 letters B, 17 letters C, 30 letters D, 30 letters E. 
+Find the length of the bit string when encoding this message by a Huffman coding.
+223
+
+Given a message 15 letters A, 17 letters B, 18 letters C, 20 letters D, 30 letters E. 
+Find the length of the bit string when encoding this message by a Huffman coding.
+232
+
+Given a weighted graph. Which are the first 3 vertices chosen when using Dijkstra algorithm to find the shortest path from A to F?
+
+Select one:
+a. A, H, B
+b. A, B, F
+c. H, B, G
+d. A, H, G
+A, H, B
+
+Given a weighted graph. Which are the first 3 vertices chosen when using Dijkstra algorithm to find the shortest path from A to Z?
+Select one:
+a. None of the other choices is correct
+b. A, E, Z
+c. A, D, C
+d. A, E, D
+e. A, E, B
+D
+
+Given the graph. Choose correct statement.
+
+Select one:
+a. The graph has Euler circuits
+b. The graph has Euler paths but no Euler circuits
+c. The graph does not have Euler paths
+The graph does not have Euler paths
+
+Given the graph. Choose correct statement.
+Select one:
+a. The graph has Hamilton circuits
+b. The graph does not have Hamilton paths
+c. The graph has Hamilton paths but no Hamilton circuits
+The graph does not have Hamilton paths
+
+Given the graph. Determine if the statement is correct.
+There are 4 cut vertices Choose...TrueFalse
+BC is a cut edge Choose...TrueFalse
+CF is a cut edge Choose...TrueFalse
+There are 4 cut vertices → False, BC is a cut edge → False, CF is a cut edge → True
+
+Given the graph. Determine if the statement is correct.
+There is only 1 cut edge
+Answer 1Choose...YesNo
+A is a cut vertex
+Answer 2Choose...YesNo
+There are 2 cut vertices
+Answer 3Choose...YesNo
+There is only 1 cut edge → No, A is a cut vertex → No, There are 2 cut vertices → Yes
+
+Given the graph. Determine if the statement is correct.
+There is only 1 cut vertex Choose...TrueFalse
+There are 3 cut edges Choose...TrueFalse
+AC is a cut edge Choose...TrueFalse
+There is only 1 cut vertex → False, There are 3 cut edges → True, AC is a cut edge → False
+
+Given the graph.Determine if the statement is True.
+This is a pseudo undirected graph. Choose...FalseTrue
+The in-degree of C is 0 Choose...FalseTrue
+The out-degree of B is 2 Choose...FalseTrue
+This is a pseudo undirected graph. → False, The in-degree of C is 0 → True, The out-degree of B is 2 → False
+
+Given the graph.How many vertices are there in the strong connected component containing A?
+5
+
+Given two graphs. Choose the correct statement.
+Select one:
+a. They are not isomorphic because they do not have the same number of connected components
+b. Thery are isomorphic
+c. They are not isomorphic because they do not have the same number of circuits of length 4
+d. None of the other choices is correct
+e. They are not isomorphic because they do not have the same degrees
+Thery are isomorphic
+
+Given two simple graphs, both have n vertices and m edges. Then the union of these graphs...
+has exactly 2n verticesAnswer 1Choose...YesNohas exactly 2m edgesAnswer 2Choose...YesNohas at least m edgesAnswer 3Choose...YesNo
+has exactly 2n vertices → No, has exactly 2m edges → No, has at least m edges → Yes
+
+How many nonisomorphic simple undirected graphs are there with 4 vertices and there are no vertices of degree 2?
+5
+
+How many nonisomorphic simple undirected graphs are there with 4 vertices and there is at least a vertex of degree 3?
+4
+
+How many vertices are there in a full 10-ary tree with 10 internal vertices?
+101
+
+How many vertices are there in a full binary tree with 10 internal vertices?
+21
+
+Let G be the graph.
+
+Choose the correct statement.
+
+
+What is the height of spanning tree obtained from Wn by the breadth-first search, starting at the central vertex of Wn?
+a. n
+b. 1
+c. n-1
+d. None of the other choices is correct
+b
+
+What is the position of the letter H when using in-order traversal?
+6
+
+What is the total weight of the minimum spanning tree produced by the graph below:
+a. 14
+b. None of the other choices is correct
+c. 16
+d. 15
+e. 19
+c
+
+Which graphs are bipartite?
+G=({a,b,c,d,e},{(a,b),(b,c),(c,d),(d,a),(a,e),(e,c)}) Choose...NoYes G=({a,b,c,d},{(a,b),(b,d),(d,a),(a,c),(c,b)}) Choose...NoYes G=({a,b,c,d,e,f},{(a,c),(a,f),(b,f),(b,c),(c,d),(f,d),(f,e),(c,e)}) Choose...NoYes
+G=({a,b,c,d,e},{(a,b),(b,c),(c,d),(d,a),(a,e),(e,c)}) → Yes, 
+G=({a,b,c,d},{(a,b),(b,d),(d,a),(a,c),(c,b)}) → No, 
+G=({a,b,c,d,e,f},{(a,c),(a,f),(b,f),(b,c),(c,d),(f,d),(f,e),(c,e)}) → Yes
